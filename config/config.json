@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "toor",
+    "database": "backend_test_task",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
